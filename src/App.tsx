@@ -15,13 +15,9 @@ import {
       Mail,
       Code2,
       Database,
-      Layers,
-      Moon,
-      Sun,
       ExternalLink,
       FileDown,
       Search,
-      Heart,
       CreditCard,
       Package,
 } from "lucide-react"
